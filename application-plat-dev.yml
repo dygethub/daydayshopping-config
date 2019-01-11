@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   application:
-    name: daydayshoping-plat
+    name: DAYDAYSHOPING-PLAT
 eureka:
   client:
     service-url:
