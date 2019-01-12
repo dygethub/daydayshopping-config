@@ -1,8 +1,8 @@
-server:
+﻿server:
   port: 9002
 spring:
   application:
-    name: USER-CONSUMER
+    name: USER-COMSUMER
 eureka:
   client:
     registerWithEureka: true #不注册到Eureka,不在注册中心显示
