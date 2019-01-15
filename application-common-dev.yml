@@ -2,7 +2,7 @@
   port: 8003
 spring:
   application:
-    name: common-service
+    name: daydayshoping-common
 eureka:
   client:
      service-url:
