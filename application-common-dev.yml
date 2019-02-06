@@ -1,6 +1,10 @@
 ﻿server:
   port: 8003
 spring:
+  data:
+      elasticsearch:
+        cluster-name: elasticsearch
+        cluster-nodes: 127.0.0.1:9300
   application:
     name: daydayshoping-common
 eureka:
